@@ -1,0 +1,8 @@
+.Logo {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  background-image: url('../../images/react.svg');
+  background-size: cover;
+  vertical-align: middle;
+}
